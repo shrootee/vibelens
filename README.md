@@ -1,3 +1,6 @@
+<img width="1889" height="875" alt="Screenshot 2026-02-22 014412" src="https://github.com/user-attachments/assets/9132cadc-628e-47db-beae-289fa4037004" />
+<img width="1893" height="876" alt="Screenshot 2026-02-21 235653" src="https://github.com/user-attachments/assets/6f859f70-2c97-4cf6-91ba-2b2fac3539f4" />
+<img width="1896" height="874" alt="Screenshot 2026-02-21 234104" src="https://github.com/user-attachments/assets/25d603a4-5fb9-4b47-8f52-2943759d1a4a" />
 🧠 AI Image Caption & Hashtag Generator
 
 An AI-powered web application that generates creative captions and relevant hashtags from uploaded images.
