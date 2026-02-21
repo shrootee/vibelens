@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caption Generator</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+
+    <h1 class="logo">VIBELENS</h1>
+    <p class="line">Upload an image and let AI understand its story, transforming it into expressive <br> captions and ready-to-use hashtags.</p>
+
+    <label class="upload-box">
+    <input type="file" id="imageInput" accept="image/*">
+
+    <div class="upload-content" id="uploadContent">
+        <span class="plus">+</span>
+        <p>Upload Image</p>
+    </div>
+
+    <img id="previewImage">
+</label>
+
+    <button id="generateButton">Generate Caption</button>
+
+    <div class="output"></div>
+
+    <div class="ending">
+    <div class="divider"></div>
+
+    <p class="tagline">Create. Upload. Let AI handle the rest.</p>
+
+    <p class="powered">
+        Powered by AI vision & language models
+    </p>
+
+    <p class="tech">
+        Built with FastAPI · BLIP · DeepSeek
+    </p>
+
+    <p class="credit">
+        Designed & Developed by Shruti Gujrathi✨
+    </p>
+</div>
+
+</div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
